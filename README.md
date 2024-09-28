@@ -104,7 +104,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/kueyram/Predictive-Maintenance.git
-
+```
 
 ## License
 This project is licensed under the MIT License.
