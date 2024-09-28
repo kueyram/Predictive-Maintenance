@@ -103,21 +103,8 @@ Both models are effective for predicting equipment failures. Monitoring key feat
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-```
+git clone https://github.com/kueyram/Predictive-Maintenance.git
 
-## Requirements
-1- Install required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-2- Run the project
-
-```bash
-python main.py
-```
 
 ## License
 This project is licensed under the MIT License.
